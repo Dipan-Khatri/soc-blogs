@@ -1,0 +1,63 @@
+# SOC Blog – Phishing Detection
+## How SOC Analysts Identify and Respond to Phishing Attacks
+
+## Introduction
+Phishing is one of the most common and effective cyberattacks used by attackers to gain unauthorized access to systems and sensitive information. Despite advances in security technology, phishing remains a major threat because it targets human behavior rather than technical vulnerabilities.
+
+In a Security Operations Center (SOC), analysts continuously monitor, detect, and investigate phishing attempts to protect users and organizational assets. This blog explains how SOC analysts identify phishing attacks and why phishing detection is a critical responsibility in cybersecurity.
+
+---
+
+## What Is Phishing?
+Phishing is a type of social engineering attack where attackers impersonate a trusted organization, service, or individual to trick users into revealing sensitive information or performing harmful actions.
+
+Common phishing examples include:
+- Fake password reset emails  
+- Fraudulent bank or payment notifications  
+- Malicious delivery or invoice attachments  
+- Fake login pages designed to steal credentials  
+
+---
+
+## Why Phishing Is Dangerous
+Phishing is dangerous because a single successful attack can lead to serious security incidents. When users unknowingly share credentials or click malicious links, attackers may gain access to internal systems, deploy malware, or move laterally across the network.
+
+From a SOC perspective, phishing is often the initial access point for:
+- Credential theft  
+- Malware infections  
+- Ransomware attacks  
+- Data breaches  
+
+---
+
+## How SOC Analysts Detect Phishing Attacks
+SOC analysts detect phishing attacks by combining automated security tools with manual investigation. Security systems such as email gateways and SIEM platforms generate alerts when suspicious emails are detected, but analysts must validate whether the activity is truly malicious.
+
+Typical SOC analysis steps include:
+- Reviewing email headers to verify sender authenticity  
+- Analyzing URLs for malicious or suspicious domains  
+- Inspecting attachments for malware indicators  
+- Checking domain reputation and registration age  
+- Investigating user behavior such as clicks or credential submissions  
+
+SOC analysts focus on context and behavior rather than relying on a single alert.
+
+---
+
+## Real-World Indicators SOC Teams Look For
+SOC analysts look for multiple indicators that suggest phishing activity, including:
+- Misspelled or look-alike domains (typosquatting)  
+- Urgent or threatening language requesting immediate action  
+- Unexpected attachments or links  
+- Requests for credentials or personal information  
+- Newly registered or low-reputation domains  
+
+A key SOC question is:
+> Does this email match normal business behavior?
+
+---
+
+## Conclusion
+Phishing remains one of the most persistent and dangerous threats faced by organizations today. SOC analysts play a critical role in detecting, investigating, and responding to phishing attempts before they escalate into larger incidents.
+
+Understanding phishing detection is a foundational skill for anyone pursuing a career as a SOC analyst, especially at the entry or internship level.
