@@ -52,10 +52,6 @@ SOC analysts look for multiple indicators that suggest phishing activity, includ
 - Requests for credentials or personal information  
 - Newly registered or low-reputation domains  
 
-A key SOC question is:
-> Does this email match normal business behavior?
-
----
 
 ## Conclusion
 Phishing remains one of the most persistent and dangerous threats faced by organizations today. SOC analysts play a critical role in detecting, investigating, and responding to phishing attempts before they escalate into larger incidents.
