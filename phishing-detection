@@ -55,5 +55,18 @@ SOC analysts look for multiple indicators that suggest phishing activity, includ
 
 ## Conclusion
 Phishing remains one of the most persistent and dangerous threats faced by organizations today. SOC analysts play a critical role in detecting, investigating, and responding to phishing attempts before they escalate into larger incidents.
-
 Understanding phishing detection is a foundational skill for anyone pursuing a career as a SOC analyst, especially at the entry or internship level.
+---
+
+## What I Learned from Writing This Blog
+
+Writing this blog helped me strengthen my understanding of phishing attacks from a Security Operations Center (SOC) perspective. I learned that phishing is not just about identifying malicious emails, but about analyzing behavior, patterns, and context.
+
+Key takeaways include:
+- How SOC analysts focus on user behavior and traffic patterns rather than relying only on tools  
+- Why phishing is often the initial access vector in larger cyberattacks  
+- The importance of analyzing email headers, URLs, attachments, and domain reputation  
+- How SOC teams differentiate between true positives and false positives during investigations  
+
+This exercise also improved my ability to document security concepts clearly, which is an essential skill for SOC analysts.
+
